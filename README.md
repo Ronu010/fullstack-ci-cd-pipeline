@@ -39,7 +39,7 @@ fullstack-devops-ci-cd/
 
 
 # Clone the repo
-git clone https://github.com/<your-username>/fullstack-devops-ci-cd.git
+git clone https://github.com/ronu010/fullstack-devops-ci-cd.git
 cd fullstack-devops-ci-cd
 
 # Start the app using Docker Compose
