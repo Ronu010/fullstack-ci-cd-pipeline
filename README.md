@@ -38,8 +38,8 @@ fullstack-devops-ci-cd/
 ## 🚀 How to Run Locally
 
 
-# Clone the repo
-git clone https://github.com/ronu010/fullstack-devops-ci-cd.git
+# Clone the repo[
+git clone https://github.com/Ronu010/fullstack-ci-cd-pipeline.git
 cd fullstack-devops-ci-cd
 
 # Start the app using Docker Compose
